@@ -1,63 +1,56 @@
 # Guntur Arya Suta
 
-**Pengembang Perangkat Lunak | CME (Sipil, Mekanikal & Elektrikal) | Sistem Informasi**
+**Software Developer | CME Professional | Information Systems**
 
-Saya adalah mahasiswa Sistem Informasi sekaligus tenaga profesional di bidang teknologi dan operasional fasilitas gedung, dengan minat dan pengalaman yang mencakup pengembangan perangkat lunak, infrastruktur TI, serta operasional fasilitas gedung. Saya menggabungkan teknologi digital dengan solusi rekayasa praktis untuk meningkatkan efisiensi operasional, keandalan sistem, dan pengelolaan fasilitas.
+I work at the intersection of software development and building facility operations, combining digital technology with practical experience in Civil, Mechanical, and Electrical (CME) systems.
 
-## Latar Belakang Profesional
+My focus is on developing useful applications, improving operational workflows, and exploring technology-driven solutions for facility management.
 
-### Pengembangan Perangkat Lunak
+## Professional Overview
 
-- Mengembangkan aplikasi web menggunakan PHP dan Laravel.
-- Mempelajari dan mengembangkan aplikasi mobile menggunakan Flutter dan Dart.
-- Mengelola basis data relasional menggunakan MySQL.
-- Membangun solusi digital untuk mendukung alur kerja operasional dan pelaporan.
-- Terus meningkatkan kemampuan dalam rekayasa perangkat lunak dan pengembangan sistem.
+**Software Development**
+- Web application development with PHP and Laravel
+- Mobile application development with Flutter and Dart
+- Database management with MySQL
+- Digital solutions for operational monitoring and reporting
 
-### CME — Sipil, Mekanikal & Elektrikal
+**Civil, Mechanical & Electrical (CME)**
+- Building facility operations and maintenance
+- Mechanical and electrical systems
+- HVAC and building utilities
+- Facility inspections and maintenance documentation
+- Digitalization of facility management processes
 
-- Terlibat dalam operasional fasilitas gedung yang mencakup bidang sipil, mekanikal, dan elektrikal.
-- Mendukung kegiatan pemeliharaan fasilitas, inspeksi, dan operasional gedung.
-- Menangani kegiatan yang berkaitan dengan utilitas gedung, sistem kelistrikan, tata udara, dan peralatan mekanikal.
-- Mendukung keandalan fasilitas, dokumentasi pemeliharaan, dan pelaporan operasional.
-- Memiliki minat dalam mengintegrasikan solusi digital ke dalam pengelolaan fasilitas dan pemeliharaan gedung.
+## Technology Stack
 
-## Keahlian Teknis
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,mysql,html,css,js,git,github,vscode" alt="Technology Stack" />
+</p>
 
-**Bahasa Pemrograman**
+## Selected Projects
 
-PHP, Dart, HTML, CSS, JavaScript
+Explore my repositories for software projects, application development, and digital solutions.
 
-**Framework dan Perangkat Pengembangan**
+[View All Repositories](https://github.com/19235002-debug?tab=repositories)
 
-Laravel, Flutter, Git, GitHub, Visual Studio Code
+## GitHub Overview
 
-**Teknologi Basis Data**
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=19235002-debug&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+</p>
 
-MySQL
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19235002-debug&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
-**Rekayasa dan Operasional Fasilitas**
+## Professional Interests
 
-Pekerjaan Sipil · Sistem Mekanikal · Sistem Elektrikal · Pemeliharaan Gedung · Sistem Tata Udara (HVAC) · Manajemen Fasilitas
+Software Engineering · Digital Transformation · IT Infrastructure · Facility Management · Maintenance Systems
 
-## Statistik GitHub
+## Approach
 
-Bagian ini menampilkan statistik aktivitas GitHub, termasuk kontribusi kode dan bahasa pemrograman yang paling sering digunakan.
-
-## Bidang yang Diminati
-
-- Rekayasa Perangkat Lunak dan Pengembangan Aplikasi
-- Transformasi Digital dan Otomatisasi Proses
-- Infrastruktur TI dan Operasional Teknologi
-- Sistem Fasilitas Sipil, Mekanikal, dan Elektrikal
-- Sistem Pemeliharaan Terkomputerisasi dan Manajemen Fasilitas
-
-## Filosofi Profesional
-
-Saya percaya bahwa teknologi dan rekayasa dapat saling melengkapi untuk menyelesaikan berbagai permasalahan nyata. Tujuan saya adalah menggabungkan kemampuan pengembangan perangkat lunak dengan pengetahuan praktis di bidang operasional fasilitas untuk menciptakan solusi yang efisien, andal, dan berkelanjutan.
+I value continuous learning, practical problem-solving, and reliable solutions. My goal is to bridge software development and engineering operations through applications that improve efficiency, documentation, and decision-making.
 
 ---
 
-<p align="center">
-  <sub>Guntur Arya Suta | Pengembangan Perangkat Lunak dan CME</sub>
-</p>
+*Guntur Arya Suta — Software Development and CME Operations*
